@@ -57,12 +57,15 @@ A command-line **Student Performance Dashboard** built using **Python** and **My
 
 🧮 Report Queries
 🥇 Class Topper Report:
+
 ![image](https://github.com/user-attachments/assets/89a8a0f9-6eea-4b4a-86f0-e1ab6bd6a52c)
 
 🕒 Most Regular Student Report:
+
 ![image](https://github.com/user-attachments/assets/be3a2c86-c140-40c8-a746-db8b061a682d)
 
 📈 Marks Percentage Report:
+
 ![image](https://github.com/user-attachments/assets/857adba0-9792-41f2-9d7d-5150cbd7d831)
 
 ⚙️ Running the Program:
